@@ -1,8 +1,3 @@
-# Problem Set 4
-# Name: Shirin Amouei
-# Collaborators: None
-# Time Spent: 10:00
-# Late Days Used: 1
 
 import matplotlib.pyplot as plt
 import numpy as np
